@@ -1,5 +1,4 @@
-### Campaign Leader's writing Guidance for https://github.com/dtbx
-
+### Campaign Leader's writing Guidance
 # Gitgrant-bitfwd-community
 Gitgrant bitfwd community 
 
