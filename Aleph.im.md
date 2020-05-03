@@ -23,15 +23,15 @@ Problem definition is when you define the problem that you project  solves. Ever
 
 This approach works well for projects making social, political or environmental impact as well as those supporting communities, nurturing nascent organizations and designing governance models.
 
-origin story questions:
+# origin story questions:
 
-**How was the idea born?**
+How was the idea born?
 
-**What made it seem important at the time?**
+What made it seem important at the time?
 
-**What connected the founders before this project?**  
+What connected the founders before this project? 
 
-**How did the project evolve to become the project that it is today?**
+How did the project evolve to become the project that it is today?
 
 
 # Problem definition questions:
