@@ -23,7 +23,7 @@ Problem definition is when you define the problem that you project  solves. Ever
 
 This approach works well for projects making social, political or environmental impact as well as those supporting communities, nurturing nascent organizations and designing governance models.
 
-# origin story questions:
+# Origin story questions:
 
 How was the idea born?
 
