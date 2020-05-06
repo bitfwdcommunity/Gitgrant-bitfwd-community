@@ -23,9 +23,7 @@ This is not an academic assignment, so keep it light and enjoy sharing with your
 
     This approach works well for projects making social, political or environmental impact as well as those supporting communities, nurturing nascent organizations and designing governance models.
 
-While developing out our DApp [dedge.exchange](https://dedge.exchange), we encountered a lot of friction, knowledge gaps, and "gotchas". This ultimately caused us to lose a lot of development time, and noticed a lot of other developers were facing a similar problem as well. And so we decided to launch MoonNet to help streamline the developer experience for building out Defi protocols.
-
-
+While developing out our DApp [dedge.exchange](https://dedge.exchange), we encountered a lot of friction, knowledge gaps, and "gotchas". This ultimately caused us to lose a lot of development time, and noticed a lot of other developers were facing a similar problem as well. And so we decided to launch a bunch of blogposts (https://studydefi.com) and developer tools (https://money-legos.studydefi.com)
 
 
 # Origin story questions:
@@ -55,7 +53,7 @@ We can make it less tough
 While we were trying to build our own defi dapp that integrates with other protocols.
 
     How do they aim to solve it?
-By streamlining the developer experience, so they can go from zero to dapp development ina  few minutes without worrying about infrastructure.
+By streamlining the developer experience, so they can go from zero to dapp development as quick as possible.
 
 
 # Stakeholder Roles and Outcomes
@@ -63,7 +61,7 @@ By streamlining the developer experience, so they can go from zero to dapp devel
 This part is about people and how they interact with your project. Anyone the project touches is a stakeholder. Although you will know best who your stakeholders really are, but the reader does not, so say a few words about:
 
     Your team
-Kendrick Tan, Software Engineer; Adrian Li, Biz Dev
+Kendrick Tan, Software Engineer; Adrian Li, Software Engineer
 
     Your community
 DApp developers (DeFi specific)
@@ -82,10 +80,10 @@ The Ethereum community as a whole
 This is where you tell the reader about whatever it is that your project hopes to deliver. This part is all about your product/ your vision/ values you hope to build an organisation around/ and what it is that your project has to offer.
 
     What are you building?
-Infrastructure to help streamline Defi Dapp development
+Tutorials / tooling to help streamline Defi Dapp development
 
     What does your project seek to accomplish? 
-Help Defi Dapp developers go from zero to defi integration in a few minutes (not days).
+Help Defi Dapp developers go from zero to defi integration.
 
     How will it solve the problem?
 With some complicated infrastructure
@@ -102,7 +100,7 @@ Now let's talk about what you have and what you need.
 We're currently focusing finding the right product market fit and will slowly iterate on that
 
     What would you do if you raised enough from this grant?
-We will work on the project full-time
+We will dedicate more time to the project
 
     Are you seeking alliances/ talent/ mentors?  
 Yes, all 3 - alliance/talent/mentors
