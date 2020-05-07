@@ -1,4 +1,4 @@
-# Origin Story / Problem Definition
+# Problem Definition
 
 Developing on DeFi and interacting with existing protocols (like Maker, Compound, Uniswap) is very difficult. Each protocol has its own interface and conventions, and knowledge on how to work with them is often hidden away. This knowledge gap is what drove us to create the StudyDeFi community, which consists of a [blog](https://studydefi.com), a Discord [server](discord.gg/rBr3U32), an NPM [package](https://github.com/studydefi/money-legos), and a [reference guide](https://money-legos.studydefi.com) for developers to rapidly develop on top of existing DeFi protocols.
 
