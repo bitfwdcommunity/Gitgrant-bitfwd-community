@@ -1,10 +1,10 @@
 # Problem Definition
 
-Developing on DeFi and interacting with existing protocols (like Maker, Compound, Uniswap) is very difficult. Each protocol has its own interface and conventions, and knowledge on how to work with them is often hidden away. This knowledge gap is what drove us to create a community called StudyDeFi.
+Developing on DeFi and interacting with existing protocols (like Maker, Compound, Uniswap, flash loans) is very difficult. Each protocol has its own interface and conventions, and knowledge on how to work with them is often hidden away. This knowledge gap is what drove us to create a community called StudyDeFi.
 
 # Stakeholder Roles and Outcomes
 
-Created by Adrian Li from [Truffle](https://www.trufflesuite.com/) and Kendrick Tan from [OmiseGO](https://omisego.co/) to help dapp developers in the Ethereum DeFi community work with DeFi protocols (like Maker, Compound, Uniswap, flash loans, etc.). The goal is to help move the DeFi and Ethereum ecosystems forward by making it easier to build on top of these "money-legos".
+Created by Adrian Li from [Truffle](https://www.trufflesuite.com/) and Kendrick Tan from [OmiseGO](https://omisego.co/) to help dapp developers in the Ethereum DeFi community work with DeFi protocols. The goal is to help move the DeFi and Ethereum ecosystems forward by making it easier to build on top of these "money-legos".
 
 # Value Proposition
 
