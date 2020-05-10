@@ -4,11 +4,11 @@ Hello Gitgrant bitfwd community!
 
 To make the most out of the time we share on the calls and in between working asynchronuously I propose the following structure:
 
-### Check-in (5-8 min)
+### Check-in | 5-8 min
 
 Each participant to say their name, what and what was their week's highlight. a short 30 seconds would be good.
 
-### Project updates (Optional formats depending on needs)
+### Project updates | 5-8min each (Optional formats depending on needs)
 
 **Option a: Got product/project?**
 Excellent, you've already got your project togeyher and you know what you'd like to share and get feedback on:
