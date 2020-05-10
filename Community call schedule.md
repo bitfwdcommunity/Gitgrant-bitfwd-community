@@ -23,6 +23,8 @@ Don't worry there'll be plenty of time to follow up asyncrhonuously with those m
 - Time for feedback and questions (fairly short questions and answers, ~2-5 min total)
 Don't worry there'll be plenty of time to follow up asyncrhonuously with those most interested)
 
+**Option x: Make your own format**
+- Just stick to the time of ~5-8 min total including time for feedback and questions.
 
 While a milestone we're working toward is the 6th Gitcoin grants round, the bigger picture is to foster a community peer group.
 This is great opportunity to cultivate group of fellow cryptopreneurs to be your long term projects' supporters and we will certainly have more programs to support you through.
