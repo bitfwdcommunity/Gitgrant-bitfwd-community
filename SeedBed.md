@@ -1,100 +1,53 @@
-### Campaign Leader's writing Guidance
+Background
 
-# Gitgrant-bitfwd-community
-Gitgrant bitfwd community 
+After working in China and Africa, and digging deeper and deeper in to theory of economy. Tomer Bariach the CEO and founder of SeedBed came to the conclusion that the capitalism in its current form does not serve the original essence or stands to its promise to create a better life.
 
+In fact the way we measure economic growth now days does not mean disappearance of poverty or rise in personal well being but rather a rise of consumption and rearrangement of poverty.
 
-If you answer each question in the guidance cards below with two sentences of roughly 10 to 15 words you will have 400-600 words and that's all you need:)
+Listening to bernard lietaer lecture - Tomer become obsessed with money not with the concept of accumulating it but to the thought process of what money is, how can it be that something that man made is missing for billions of people around, not land, not food, not labour time but money? that’s where the idea of new kind of economy rose, one that drives growth by a community ability and values to operate as an thriving independent economical organizem.
 
-Please have a read of all the cards before you start writing:)
+This kind of economy has been waiting exactly for blockchain technology that will allow enough experimenting and innovating in order to break rooted economical paradigm.
 
-This is not an academic assignment, so keep it light and enjoy sharing with your reader:)
+If money is man-made and it’s failing to fulfill it’s utility — can we allow people to create new money? Could this help people reimagine the socio-economic environment they live in?
+We think it can. We believe that by providing the right tools to create a community token, anyone can encourage local growth. Local populations can turn their communities into economies, and it’s something every person can do. Just like Wix did to websites, and Facebook to forums.
+Mission
 
+The goal of SeedBed is to give people who live in inefficient economies a platform where they can create new standards for collaboration and exchange value in more niche ways that fit their communities, values, and way of life.
 
+SeedBed is a self-service community token creation platform it was originally  based on saving  saving group model that but soon after grow to a full scale of new community economy-SeeBed model.
 
-# Origin Story/ Problem Definition 
+Our model- the token model is “Proof of Stake” (POS) — where people are rewarded for the money they save and contribute to a community pool that can be used for loans or joint business, while bringing more stability to the community token.
 
-An origin story is a nice way to connect with the 
-reader. A narrative of some of the circumstances of your project’s inception and early stages, invites the reader to share in the motivations that got the founders fired-up in the first place.
+Team
 
-This approach works well for projects developing new tech, facilitating growth, creating opportunity and simulating business.
+Once Tomer realized the calling behind his idea, it was clear to him that he ready to go on a new journey with his two of his former colleagues in the blockchain field, both of whom carry the flag of empowering communities and pushing to their independence in different fields from indigenous culture through gender and finally inventing new economy model that will perfectly fit the communities behaviour and needs.
 
-Problem definition is when you define the problem that you project  solves. Every project ultimately offers a solution, but telling the story of the problem your project seeks to solve is a very good way to invite the reader to put themselves in the shoes of the people who will benefit form the fruits of your project's labor.
+The three have met communities from all over the world, and found that the solution should be comprehensive and not another tool in the already existing system and moreover revolves the community needs and motivated by trust, mutual interest and full transparency.
 
-This approach works well for projects making social, political or environmental impact as well as those supporting communities, nurturing nascent organizations and designing governance models.
+Our stakeholders- 
 
+The Team is composed of Tomer Bariach -Tomer CEO - founded the Jerusalem lira (community currency), project manager of community currencies in Bancor - a project based in Kenya, Product lead & Token design of Good Dollar - the social impact arm of eToro, product strategy in the world of complementary economies. 
 
-# origin story questions:
+Omer Zamsky - Backend & blockchain developer at Bancor, CTO of Mimoona, Backend developer at iron source - full stack developer, scalable A-Z development of end user product. 
 
-How was the idea born?
+Esfir Eppelbaum- CPO, entrouponer with years of experience at fintech and blockchain filed with award winning products.
 
-What made it seem important at the time?
+Our community
 
-What connected the founders before this project? 
+Our Community is actually comprised of many communities. we share a vision and develop relationships with a big variety of communities from all over the world from the Caribbean to Australia.
 
-How did the project evolve to become the project that it is today?
-
-# Problem definition questions:
-
-What’s going on that isn’t right?
-
-How does it come about and what does it lead to?
-
-How did the founders discover the problem?
-
-How do they aim to solve it?
+People who are looking for tools to create a collaborative thriving environment, people who dare to dream and challenge themselves and their surrounding communities - who are committed to the idea of creating a new, better, society 
+(If you reached that far join us on our telegram group! https://t.me/seedbed) 
 
 
-# Stakeholder Roles and Outcomes
+What have we done so far?
+At the moment we have  developed the smart contracts that will support our model and we are now working on our native app that will  be super easy and user friendly to the fact that even non technological user will be able to set and manage his economy and his community.
 
-This part is about people and how they interact with your project. Anyone the project touches is a stakeholder. Although you will know best who your stakeholders really are, but the reader does not, so say a few words about:
+Our product, unlike many of the blockchain products available in the market, is very easy to use and almost transparent to end-user blockchain technology.
+What will we do with the money
 
-Your team
+Our next stage will be developing a self creation ability for any user- meaning every user will be able to create his currency with the settings that are relevant to his community only in 3 extremely simple steps on our native app- this grant will help us to achieve to one of our goal in its give full independence to our communities from the very beginning, which will give us the ability to reach a much wider audience of communities.
 
-Your community 
+Target
 
-Your benefactors 
-
-The stakeholder group that will be impacted by your project the most - your biggest stakeholder
-
-Your most impactful stakeholder group
-
-
-# Value Proposition
-
-This is where you tell the reader about whatever it is that your project hopes to deliver. This part is all about your product/ your vision/ values you hope to build an organisation around/ and what it is that your project has to offer.
-
-What are you building?
-
-What does your project seek to accomplish? 
-
-How will it solve the problem?
-
-How will it impact a greater community?
-
-
-# Running Activities, Activities Pending Resourcing
-
-Now let's talk about what you have and what you need.
-
-Where are you up to on your roadmap?
-
-What would you do if you raised enough from this grant?
-
-Are you seeking alliances/ talent/ mentors?  
-
-
-
-# Next step on the roadmap.
-
-Your project is awesome and the reader will likely follow it’s socials, become a stakeholder, or know one and they will need something to talk about. So let's give them something to talk about, something to look out for and something they can take part in by funding you!
-
-Where are you on your roadmap?
-
-What’s next and when is it coming?
-
-Do you have a funding target you must reach before you can start the next stage?
-
-What happens if you raise way more than you expected? 
-
-What awesome things will you do with the additional resources?
+our funding target at the moment is set to 25,000, so we can get to the target listed above.
