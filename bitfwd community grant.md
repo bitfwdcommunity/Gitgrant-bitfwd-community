@@ -8,7 +8,7 @@ Bitfwd is a community that started in Sydney Australia in 2015. Initially as a k
 Since then bitfwd has been supporting multiple projects and individuals in collaboratively building the decentralized future and creating alternative digital commons that is the #cyberwilderness.
 
 
-Today bitfwd is a worldwide community with most of the activity focused on venture building and DAOs, supporting community teams and bootstrapping the cryptoeconomy through research, products, design and other ecosystem fronts.
+Today bitfwd is a worldwide community with most of our activity focused on venture-building and DAOs, supporting community teams and bootstrapping the cryptoeconomy through research, products, design and other ecosystem fronts.
 
 
 Our past events brought thousands of people into the crypto space. We focus on empowering through participation in #Blockathon events, DAOs, workshops, educational content and mentoring. We also regularly support teams in improving their sustainability by co-creating revenue streams and sourcing funding, media exposure and partnerships opportunities. 
